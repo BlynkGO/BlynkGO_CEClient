@@ -2,7 +2,7 @@
 HDMI CEC communication for ESP32  
   
 <p align="center">
-  <img src="HDMI_ESP32_wiring.png" alt="image"/>
+  <img src="HDMI_ESP32_wiring2.png" alt="image"/>
 </p>  
   
 ## Credit
