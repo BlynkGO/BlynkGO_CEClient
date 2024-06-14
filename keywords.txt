@@ -1,0 +1,14 @@
+BlynkGO_CEClient	KEYWORD1
+CEC	KEYWORD1
+
+begin	KEYWORD2
+isReady	KEYWORD2
+write	KEYWORD2
+getLogicalAddress	KEYWORD2
+setPromiscuous	KEYWORD2
+setMonitorMode	KEYWORD2
+onTransmit	KEYWORD2
+onReceive	KEYWORD2
+run	KEYWORD2
+update	KEYWORD2
+
